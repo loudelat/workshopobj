@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            
+            Student student1 = new Student();
         }
     }
 }
